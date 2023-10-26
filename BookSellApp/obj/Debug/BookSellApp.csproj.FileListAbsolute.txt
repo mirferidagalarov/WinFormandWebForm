@@ -1,0 +1,2 @@
+C:\Users\Lenovo\source\repos\ClothesStoreManagmentSystem\BookSellApp\obj\Debug\BookSellApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClothesStoreManagmentSystem\BookSellApp\obj\Debug\BookSellApp.csproj.CoreCompileInputs.cache
